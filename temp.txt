@@ -1,3 +1,3 @@
 Initializing project 3.. 2.. 1..
 
-first changes made by dev Ruskin B.
+first changes made by dev Ruskin B., and then it by dev Wasil
